@@ -1,7 +1,32 @@
 aid: shiftsouth
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/shiftsouth.png
 name: ShiftSouth
-description: ShiftSouth is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  ShiftSouth (Pty) Ltd operates SweepSouth, South Africa's first on-demand home
+  services marketplace, launched in 2014. The platform connects roughly 250,000
+  customers with about 6,500 vetted home-services professionals ("SweepStars")
+  across Cape Town, Johannesburg, Sandton, Centurion, Pretoria, Durban, Umhlanga,
+  Stellenbosch, Paarl and other South African cities. Services span on-demand and
+  express indoor cleaning, office and Airbnb turnover cleaning, laundry and
+  ironing, elder care, Mom's Helper and childcare, dog walking, gardening and pool
+  maintenance, plus full-time placements of housekeepers, nannies and carers and a
+  MyHome Hub subscription for managing private domestic workers. Professionals are
+  background-checked, reference-verified and insured. SweepSouth is a 500 Global
+  portfolio company and has won the Forbes Africa Women Innovation Award (2020) and
+  the World Economic Forum Breakthrough Female Innovators Award (2017). It is a
+  consumer marketplace with mobile apps for iOS and Android and does not publish a
+  public developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/shiftsouth/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +36,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Home Services
+- Marketplace
+- On-Demand
+- Cleaning
+- South Africa
+- Consumer
+- Gig Economy
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,18 @@ maintainers:
 common:
 - type: Website
   url: https://sweepsouth.com
+- type: Blog
+  url: https://sweepsouth.com/blog/
+- type: Support
+  url: https://help.sweepsouth.com/hc/en-us
+- type: TermsOfService
+  url: https://sweepsouth.com/terms/
+- type: PrivacyPolicy
+  url: https://sweepsouth.com/privacy/
+- type: DomainSecurity
+  url: security/shiftsouth-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
