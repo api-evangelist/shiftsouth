@@ -64,6 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ShiftSouth is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+ShiftSouth (Pty) Ltd operates SweepSouth, South Africa's first on-demand home services marketplace, launched in 2014. The platform connects roughly 250,000 customers with about 6,500 vetted home-services professionals ("SweepStars") across Cape Town, Johannesburg, Sandton, Centurion, Pretoria, Durban, Umhlanga, Stellenbosch, Paarl and other South African cities. Services span on-demand and express indoor cleaning, office and Airbnb turnover cleaning, laundry and ironing, elder care, Mom's Helper and childcare, dog walking, gardening and pool maintenance, plus full-time placements of housekeepers, nannies and carers and a MyHome Hub subscription for managing private domestic workers. Professionals are background-checked, reference-verified and insured. SweepSouth is a 500 Global portfolio company and has won the Forbes Africa Women Innovation Award (2020) and the World Economic Forum Breakthrough Female Innovators Award (2017). It is a consumer marketplace with mobile apps for iOS and Android and does not publish a public developer API surface.
 
-Backed by: 500-global — https://sweepsouth.com
+**Areas:** Company · Home Services · Marketplace · On-Demand · Cleaning · South Africa · Consumer · Gig Economy
+
+## ShiftSouth on APIs.io
+
+Everything profiled for ShiftSouth is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/shiftsouth/](https://apis.io/providers/shiftsouth/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [shiftsouth](https://apis.io/servers/shiftsouth/shiftsouth/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Shiftsouth Domain Security](https://apis.io/security/shiftsouth/shiftsouth-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sweepsouth.com)
+- [Support](https://help.sweepsouth.com/hc/en-us)
+- [Blog](https://sweepsouth.com/blog/)
+- [Terms of service](https://sweepsouth.com/terms/)
+- [Privacy policy](https://sweepsouth.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 10.6** — minimal · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 51.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 12.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/shiftsouth/](https://apis.io/providers/shiftsouth/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ShiftSouth: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/shiftsouth/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
